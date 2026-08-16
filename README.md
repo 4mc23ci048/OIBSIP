@@ -55,3 +55,21 @@ Screenshots of the application will be added here.
 Saniya Banu
 
 ## 🏢 Internship
+Oasis Infobyte Internship Program
+
+## 📸 Application Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Length Conversion
+![Length Conversion](screenshots/length.png)
+
+### Weight Conversion
+![Weight Conversion](screenshots/weight.png)
+
+### Temperature Conversion
+![Temperature Conversion](screenshots/temperature.png)
+
+### Input Validation
+![Input Validation](screenshots/validation.png)
