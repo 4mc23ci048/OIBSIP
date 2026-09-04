@@ -65,17 +65,29 @@ A To-Do application that allows users to create an account, log in, manage tasks
 
 👤 Create Account
 
-<img src="./Task2-To-Do-App/images/create-account.jpg" width="220">🔐 Login
+<img src="Android-Level1-Task2-ToDoApp/screenshots/create account.jpg" width="220">
 
-<img src="./Task2-To-Do-App/images/login.jpg" width="220">🏠 Main Page
+🔐 Login
 
-<img src="./Task2-To-Do-App/images/main-page.jpg" width="220">📝 Task After Login
+<img src="Android-Level1-Task2-ToDoApp/screenshots/login.jpg" width="220">
 
-<img src="./Task2-To-Do-App/images/task-after-login.jpg" width="220">✅ Completing Task
+🏠 Main Page
 
-<img src="./Task2-To-Do-App/images/completing-task.jpg" width="220">🚪 Logout Successful
+<img src="Android-Level1-Task2-ToDoApp/screenshots/main page.jpg" width="220">
 
-<img src="./Task2-To-Do-App/images/logout-successful.jpg" width="220">---
+📝 Task After Login
+<img src="Android-Level1-Task2-ToDoApp/screenshots/after login.jpg" width="220">
+
+📝 Added Tasks
+<img src="Android-Level1-Task2-ToDoApp/screenshots/added tasks.jpg" width="220">
+
+✅ Completing Task
+
+<img src="Android-Level1-Task2-ToDoApp/screenshots/completing tasks.jpg" width="220">
+
+🚪 Logout Successful
+
+<img src="Android-Level1-Task2-ToDoApp/screenshots/logout successful.jpg" width="220">---
 
 🧮 Task 3 – Calculator
 
