@@ -108,17 +108,27 @@ A simple Android Calculator application that performs basic arithmetic operation
 
 🏠 Home
 
-<img src="./Task3-Calculator/images/home.jpg" width="220">➕ Addition
+<img src="Android-Level1-Task3-Calculator/photos/home.jpg" width="220">
 
-<img src="./Task3-Calculator/images/addition.jpg" width="220">➖ Subtraction
+➕ Addition
 
-<img src="./Task3-Calculator/images/subtraction.jpg" width="220">✖️ Multiplication
+<img src="Android-Level1-Task3-Calculator/photos/addition.jpg" width="220">
 
-<img src="./Task3-Calculator/images/multiplication.jpg" width="220">➗ Division
+➖ Subtraction
 
-<img src="./Task3-Calculator/images/division.jpg" width="220">⚠️ Error
+<img src="Android-Level1-Task3-Calculator/photos/subtraction.jpg" width="220">
 
-<img src="./Task3-Calculator/images/error.jpg" width="220">---
+✖️ Multiplication
+
+<img src="Android-Level1-Task3-Calculator/photos/multiplication.jpg" width="220">
+
+➗ Division
+
+<img src="Android-Level1-Task3-Calculator/photos/division.jpg" width="220">
+
+⚠️ Error
+
+<img src="Android-Level1-Task3-Calculator/photos/error.jpg" width="220">---
 
 ⏱️ Task 4 – Stopwatch
 
@@ -136,9 +146,11 @@ A simple Android Stopwatch application that allows users to measure elapsed time
 
 🏠 Main Page
 
-<img src="./Task4-Stopwatch/images/main-page.jpg" width="250">🏁 Laps
+<img src="Android-Level1-Task5-StopWatch/photos/main.jpg" width="250">
 
-<img src="./Task4-Stopwatch/images/laps.jpg" width="250">---
+🏁 Laps
+
+<img src=".Android-Level1-Task5-StopWatch/photos/laps.jpg" width="250">---
 
 🛠️ Technologies Used
 
@@ -151,42 +163,6 @@ A simple Android Stopwatch application that allows users to measure elapsed time
 
 ---
 
-📂 Project Structure
-
-OIBSIP/
-│
-├── Task1-Unit-Converter/
-│   └── images/
-│       ├── home.jpg
-│       ├── invalid-or-null.jpg
-│       ├── length.jpg
-│       ├── temperature.jpg
-│       └── weight.jpg
-│
-├── Task2-To-Do-App/
-│   └── images/
-│       ├── task-after-login.jpg
-│       ├── completing-task.jpg
-│       ├── create-account.jpg
-│       ├── login.jpg
-│       ├── logout-successful.jpg
-│       └── main-page.jpg
-│
-├── Task3-Calculator/
-│   └── images/
-│       ├── addition.jpg
-│       ├── division.jpg
-│       ├── error.jpg
-│       ├── home.jpg
-│       ├── multiplication.jpg
-│       └── subtraction.jpg
-│
-├── Task4-Stopwatch/
-│   └── images/
-│       ├── laps.jpg
-│       └── main-page.jpg
-│
-└── README.md
 
 ---
 
