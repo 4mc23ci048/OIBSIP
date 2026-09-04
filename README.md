@@ -76,9 +76,11 @@ A To-Do application that allows users to create an account, log in, manage tasks
 <img src="Android-Level1-Task2-ToDoApp/screenshots/main page.jpg" width="220">
 
 📝 Task After Login
+
 <img src="Android-Level1-Task2-ToDoApp/screenshots/after login.jpg" width="220">
 
 📝 Added Tasks
+
 <img src="Android-Level1-Task2-ToDoApp/screenshots/added tasks.jpg" width="220">
 
 ✅ Completing Task
