@@ -1,116 +1,176 @@
-📱 OIBSIP Android Development Internship
+📱 Android Development Internship – OIBSIP
 
-Android Development Tasks
+This repository contains the Android applications developed as part of my Android Development Internship at OIBSIP.
 
-This repository contains the Android applications developed as part of my Oasis Infobyte Internship (OIBSIP).
+🚀 Tasks Completed
 
-The projects were developed using Android Studio and demonstrate fundamental Android application development concepts, user interface design, event handling, and application functionality.
-
----
-
-🛠️ Technologies Used
-
-- Java
-- Android Studio
-- XML
-- Android SDK
-- SQLite
-- Git & GitHub
+- 📏 Task 1 – Unit Converter
+- 📝 Task 2 – To-Do App
+- 🧮 Task 3 – Calculator
+- ⏱️ Task 4 – Stopwatch
 
 ---
 
-📌 Task 1 – Unit Converter
+📏 Task 1 – Unit Converter
 
-Description
+A simple Android Unit Converter application that allows users to convert different types of units.
 
-A simple Android application that converts values from one unit to another. The application provides an easy-to-use interface for performing unit conversions.
+✨ Features
 
-Features
-
-- User-friendly interface
-- Unit conversion
+- Length conversion
+- Temperature conversion
+- Weight conversion
 - Input validation
-- Instant conversion results
+- Invalid or null input handling
+- Simple and user-friendly interface
 
 📸 Screenshots
 
-screenshot/home.jpg
-screenshot/invalidor null.jpg
-screenshot/length.jpg
-screenshot/temperature.jpg
-screenshot/weight.jpg
+🏠 Home
 
----
+<img src="./Task1-Unit-Converter/images/home.jpg" width="220">📏 Length
 
-📌 Task 2 – To-Do App
+<img src="./Task1-Unit-Converter/images/length.jpg" width="220">🌡️ Temperature
 
-Description
+<img src="./Task1-Unit-Converter/images/temperature.jpg" width="220">⚖️ Weight
 
-A To-Do application that allows users to create an account, log in, and manage their daily tasks.
+<img src="./Task1-Unit-Converter/images/weight.jpg" width="220">⚠️ Invalid or Null Input
 
-Features
+<img src="./Task1-Unit-Converter/images/invalid-or-null.jpg" width="220">---
+
+📝 Task 2 – To-Do App
+
+A To-Do application that allows users to create an account, log in, manage tasks, complete tasks, and log out.
+
+✨ Features
 
 - User registration
-- Login functionality
+- User login
 - Add tasks
-- Mark tasks as completed
-- Delete tasks
-- SQLite database
+- View tasks
+- Complete tasks
+- Task management
 - Logout functionality
+- SQLite database for storing users and tasks
 
 📸 Screenshots
 
+👤 Create Account
 
----
+<img src="./Task2-To-Do-App/images/create-account.jpg" width="220">🔐 Login
 
-📌 Task 3 – Calculator
+<img src="./Task2-To-Do-App/images/login.jpg" width="220">🏠 Main Page
 
-Description
+<img src="./Task2-To-Do-App/images/main-page.jpg" width="220">📝 Task After Login
 
-A calculator Android application designed to perform basic arithmetic operations through a simple and interactive user interface.
+<img src="./Task2-To-Do-App/images/task-after-login.jpg" width="220">✅ Completing Task
 
-Features
+<img src="./Task2-To-Do-App/images/completing-task.jpg" width="220">🚪 Logout Successful
+
+<img src="./Task2-To-Do-App/images/logout-successful.jpg" width="220">---
+
+🧮 Task 3 – Calculator
+
+A simple Android Calculator application that performs basic arithmetic operations with error handling.
+
+✨ Features
 
 - Addition
 - Subtraction
 - Multiplication
 - Division
-- Clear/reset functionality
-- User-friendly calculator interface
+- Error handling
+- Simple calculator interface
 
-📸 Screenshot
+📸 Screenshots
 
+🏠 Home
 
+<img src="./Task3-Calculator/images/home.jpg" width="220">➕ Addition
 
----
+<img src="./Task3-Calculator/images/addition.jpg" width="220">➖ Subtraction
 
-📌 Task 4 – Stopwatch
+<img src="./Task3-Calculator/images/subtraction.jpg" width="220">✖️ Multiplication
 
-Description
+<img src="./Task3-Calculator/images/multiplication.jpg" width="220">➗ Division
 
-A stopwatch Android application that allows users to measure elapsed time accurately.
+<img src="./Task3-Calculator/images/division.jpg" width="220">⚠️ Error
 
-Features
+<img src="./Task3-Calculator/images/error.jpg" width="220">---
+
+⏱️ Task 4 – Stopwatch
+
+A simple Android Stopwatch application that allows users to measure elapsed time and record lap times.
+
+✨ Features
 
 - Start stopwatch
-- Stop/pause stopwatch
+- Stop stopwatch
 - Reset stopwatch
-- Displays elapsed time
-- Simple and responsive interface
+- Record lap times
+- Simple and user-friendly interface
 
-📸 Screenshot
+📸 Screenshots
 
+🏠 Main Page
 
+<img src="./Task4-Stopwatch/images/main-page.jpg" width="250">🏁 Laps
+
+<img src="./Task4-Stopwatch/images/laps.jpg" width="250">---
+
+🛠️ Technologies Used
+
+- Java
+- XML
+- Android Studio
+- SQLite
+- Git
+- GitHub
 
 ---
 
-🎯 Internship Objective
+📂 Project Structure
 
-These projects helped me strengthen my understanding of Android application development, Java programming, UI design, database integration, and problem-solving.
+OIBSIP/
+│
+├── Task1-Unit-Converter/
+│   └── images/
+│       ├── home.jpg
+│       ├── invalid-or-null.jpg
+│       ├── length.jpg
+│       ├── temperature.jpg
+│       └── weight.jpg
+│
+├── Task2-To-Do-App/
+│   └── images/
+│       ├── task-after-login.jpg
+│       ├── completing-task.jpg
+│       ├── create-account.jpg
+│       ├── login.jpg
+│       ├── logout-successful.jpg
+│       └── main-page.jpg
+│
+├── Task3-Calculator/
+│   └── images/
+│       ├── addition.jpg
+│       ├── division.jpg
+│       ├── error.jpg
+│       ├── home.jpg
+│       ├── multiplication.jpg
+│       └── subtraction.jpg
+│
+├── Task4-Stopwatch/
+│   └── images/
+│       ├── laps.jpg
+│       └── main-page.jpg
+│
+└── README.md
 
-👩‍💻 Developer
+---
+
+👩‍💻 Author
 
 Saniya Banu
 
+AIML Engineering Student
 Malnad College of Engineering
-Artificial Intelligence and Machine Learning
