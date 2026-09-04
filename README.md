@@ -1,4 +1,6 @@
-📱 Android Development Internship – OIBSIP
+Oasis Infobyte Internship Projects [OIBSIP]
+
+📱 Android Development Internship 
 
 This repository contains the Android applications developed as part of my Android Development Internship at OIBSIP.
 
@@ -171,4 +173,5 @@ A simple Android Stopwatch application that allows users to measure elapsed time
 Saniya Banu
 
 AIML Engineering Student
+
 Malnad College of Engineering
