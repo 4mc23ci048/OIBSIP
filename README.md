@@ -150,7 +150,7 @@ A simple Android Stopwatch application that allows users to measure elapsed time
 
 🏁 Laps
 
-<img src=".Android-Level1-Task5-StopWatch/photos/laps.jpg" width="250">---
+<img src="Android-Level1-Task5-StopWatch/photos/laps.jpg" width="250">---
 
 🛠️ Technologies Used
 
