@@ -28,7 +28,7 @@ A simple Android Unit Converter application that allows users to convert differe
 
 🏠 Home
 
-<img src=".Android-Level1-Task1-UnitConverter/screenshot/home.jpg" width="220">
+<img src="Android-Level1-Task1-UnitConverter/screenshot/home.jpg" width="220">
 
 📏 Length
 
@@ -44,7 +44,7 @@ A simple Android Unit Converter application that allows users to convert differe
 
 ⚠️ Invalid or Null Input
 
-<img src=".Android-Level1-Task1-UnitConverter/screenshot/invalidor null.jpg" width="220">---
+<img src="Android-Level1-Task1-UnitConverter/screenshot/invalidor null.jpg" width="220">---
 
 📝 Task 2 – To-Do App
 
